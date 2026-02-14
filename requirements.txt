@@ -1,0 +1,11 @@
+speechrecognition
+gtts
+pygame
+pyttsx3
+google-generativeai
+python-dotenv
+psutil
+requests
+beautifulsoup4
+pywhatkit
+
